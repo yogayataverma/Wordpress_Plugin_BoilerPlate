@@ -1,4 +1,11 @@
-(function( $ ) {
+/**
+ * Custom Welcome Settings Public Scripts
+ *
+ * @package Custom Welcome Plugin
+ * @since 1.0.0
+ */
+
+(function ( $ ) {
 	'use strict';
 
 	/**

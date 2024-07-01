@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Define the internationalization functionality
  *
@@ -24,9 +23,7 @@
  * @subpackage Custom_Welcome_Settings/includes
  * @author     Yogayata Verma <yogayatajugnu@gmail.com>
  */
-class Custom_Welcome_Settings_i18n {
-
-
+class Custom_Welcome_Settings_I18n {
 	/**
 	 * Load the plugin text domain for translation.
 	 *
@@ -39,9 +36,5 @@ class Custom_Welcome_Settings_i18n {
 			false,
 			dirname( dirname( plugin_basename( __FILE__ ) ) ) . '/languages/'
 		);
-
 	}
-
-
-
 }
